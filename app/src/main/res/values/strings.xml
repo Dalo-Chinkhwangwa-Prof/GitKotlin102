@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitKotlinApplication</string>
+    <string name="git_repository">Git Repository</string>
+    <string name="no_results">No Results</string>
+</resources>
